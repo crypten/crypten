@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crypten
 - 👀 I’m interested in Angular, Phyton, Typescript, Data Sciene, Machine Learning
-- 🌱 I’m currently learning Git (I use Pluralsight)
+- 🌱 I’m currently learning Web-Programming (Angular, Raact, Vue, Ember - I use Pluralsight)
 - 💞️ I’m looking to collaborate on - Database technology, i am a specialist for Oracle databases
 - 📫 How to reach me - crypten2580@icloud.com
 
